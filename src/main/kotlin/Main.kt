@@ -1,5 +1,7 @@
 package org.example
 
 fun main() {
-    println()
+    val portaria = Portaria()
+    portaria.controlaEntradaPortaria()
 }
+

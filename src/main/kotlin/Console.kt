@@ -1,7 +1,5 @@
 package org.example
 
-import sun.invoke.empty.Empty
-
 class Console {
     fun readInt(msg: String): Int {
         println(msg)

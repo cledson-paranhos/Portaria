@@ -1,7 +1,8 @@
 package org.example
 
+import org.example.control.Portaria
+
 fun main() {
-    val portaria = Portaria()
-    portaria.controlaEntradaPortaria()
+    Portaria()
 }
 

@@ -1,4 +1,4 @@
-package org.example
+package org.example.entity
 
 data class Usuario(val idade: Int) {
     fun permiteEntradaUsuario(): Boolean {
